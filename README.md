@@ -1,28 +1,39 @@
-Habit Tracker
+# Habit Tracker ✅
 
-A simple Habit Tracker web application built using HTML, CSS, and JavaScript.
+A clean and simple habit tracker web app to build consistency. Add habits, track streaks, and stay motivated.
 
-Live Demo
+## ✨ Features
+- ➕ Add and delete habits
+- ✅ Mark habits as completed daily
+- 🔥 Streak tracking
+- 📊 Progress bar
+- 🌙 Dark mode toggle
+- 💾 LocalStorage persistence
+- 📱 Responsive design
 
-🔗 https://harshit-exe-dev.github.io/Habit-Tracker/
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-Features
+## 🚀 Live Demo
+👉 [Try it live](https://harshit-exe-dev.github.io/Habit-Tracker/)
 
-- Add new habits
-- Mark habits as completed
-- Track streaks
-- Progress bar visualization
-- Delete habits
-- Dark mode toggle
-- Data saved using LocalStorage
+## 💻 Run Locally
+1. Clone the repo
+   ```bash
+   git clone https://github.com/harshit-exe-dev/Habit-Tracker.git
+   ```
+2. Open `index.html` in your browser
+   - No build step required!
 
-Technologies Used
+## 📝 How It Works
+- Habits are saved in browser LocalStorage
+- Completing a habit daily increases your streak
+- Progress bar shows overall completion
 
-- HTML
-- CSS
-- JavaScript
-- LocalStorage
+## 👨‍💻 Author
+**Harshit Bharti** - [@harshit-exe-dev](https://github.com/harshit-exe-dev)
 
-Author
-
-Harshit
+## 📝 License
+Open source under MIT License.
